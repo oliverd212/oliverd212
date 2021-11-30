@@ -1,0 +1,7 @@
+echo "# oliverd212" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/oliverd212/oliverd212.git
+git push -u origin main
